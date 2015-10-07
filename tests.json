@@ -2,11 +2,11 @@
 	{
 		"name" : "final2",
 		"fullname" : "final2.LangtonTest",
-		"location" : "https://github.com/MartinLoeper/final2.LangtonTest.git"
+		"location" : "https://github.com/MartinLoeper/final2.LangtonTest/archive/master.zip"
 	},
 	{
 		"name" : "final1",
 		"fullname" : "final1.RecommendationTest",
-		"location" : "https://github.com/MartinLoeper/final1.RecommendationTest.git"
+		"location" : "https://github.com/MartinLoeper/final1.RecommendationTest/archive/master.zip"
 	}
 ]
